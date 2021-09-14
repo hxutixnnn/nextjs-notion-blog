@@ -47,5 +47,7 @@ module.exports = {
   //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
-  pageUrlOverrides: null
+  pageUrlOverrides: {
+    '/sua-loi-dang-nhap-facebook': '018b7c4c67da476f807cddd48909f6fd'
+  }
 }
