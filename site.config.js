@@ -48,6 +48,7 @@ module.exports = {
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
   // }
   pageUrlOverrides: {
-    '/sua-loi-dang-nhap-facebook': '018b7c4c67da476f807cddd48909f6fd'
+    '/sua-loi-dang-nhap-facebook': '018b7c4c67da476f807cddd48909f6fd',
+    '/nhan-coupon-notion-personal-pro-mien-phi','781675c93195449ca976220172ff57b8'
   }
 }
